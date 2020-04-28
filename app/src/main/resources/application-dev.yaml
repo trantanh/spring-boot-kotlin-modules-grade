@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: App
+
+logging:
+    level:
+        ROOT: INFO
+        cz.trantanh: INFO
+        org.springframework: INFO
